@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🖤 Shivam Pandey — The Shadow Coder</h1>
-<p align="center"><i>"Even in silence, I grow stronger."</i> — Jin-Woo</p>
+<p align="center"><i>"Even in silence, I grow stronger."</i> — Spicysp</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-B--Rank--Coder-informational?style=flat&logo=github&color=9040ff" />
