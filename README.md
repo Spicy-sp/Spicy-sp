@@ -30,7 +30,7 @@
 
 💡 Exploring: JPA, Postman, IntelliJ Shortcuts
 
-⚙️ Next Up: Docker, Cloud Deployments, Testing
+⚙️ Next Up: Docker, Cloud Deployments, Testing, React native, 
 
 🧭 Vision Board
 🔨 Build a RESTful backend for a full-stack project
