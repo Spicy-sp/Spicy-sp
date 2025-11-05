@@ -47,4 +47,12 @@
 
 🌑 Developer Rank: B-Rank ➤ Rising toward S-Rank
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRvemF0MWR0YjR6bHkxa21oc3c2dzNzMWR0c2hmdnk2aXRydmJnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0d1OI53gvrsQMFJrMe/giphy.gif" width="50%" /> </p> <p align="center"><i>"Leveling Up!!!!."</i></p> ```
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRvemF0MWR0YjR6bHkxa21oc3c2dzNzMWR0c2hmdnk2aXRydmJnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0d1OI53gvrsQMFJrMe/giphy.gif" width="50%" /> </p> <p align="center"><i>"Leveling Up!!!!."</i></p> 
+
+
+## 🐍 A Little Fun: My GitHub Activity Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samaruta-batto/Samaruta-batto/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Samartha's Dark Themed GitHub Contribution Snake" style="max-width: 90%;">
+</p>
+
+---
