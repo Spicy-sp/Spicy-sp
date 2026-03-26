@@ -16,10 +16,10 @@
 ## 🛡️ Tech Arsenal
 
 ```bash
-💻 Languages     : Java (Core) | Python | JavaScript | SQL | HTML | CSS | 
-🧰 Tools         : Git | VS Code | IntelliJ
-📦 Frameworks    : Spring Boot (Learning), React (Basics)
-🗃️ Databases     : MySQL | MongoDB (Basics)
+💻 Languages     : Java (Core) | Python | JavaScript | SQL | HTML | CSS | MERN | FARMER |
+🧰 Tools         : Git | VS Code | IntelliJ | Postman |
+📦 Frameworks    : Spring Boot (Learning intermediate), React ,NodeJS
+🗃️ Databases     : MySQL | MongoDB 
 ```
 🧠 Shadow Training
 "I code when others sleep. I build when others scroll."
@@ -28,7 +28,7 @@
 
 🌱 Learning: Spring Boot, MVC Architecture, REST APIs
 
-💡 Exploring: JPA, Postman, IntelliJ Shortcuts
+💡 Exploring: JPA, IntelliJ Shortcuts
 
 ⚙️ Next Up: Docker, Cloud Deployments, Testing, React native, 
 
